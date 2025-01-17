@@ -1,0 +1,27 @@
+ Difference between a Library and Framework? 
+ Library : {
+    A libnrary is a collection of pre-written code that provides
+    specific functionality of developers. it is designed to simplify
+    and speed up the develpoment process by offering reusable code
+    for common tasks. Library are typical focused on a particular
+    purpose, such as making HTTP requests, manipilating dates, 
+    handling mathamtical calculations.
+ }
+ Framework{
+    A framework is a pre-defined structure or foundation for building software applications.
+    Unlike a library, a framework dictates the architecture of your application and provides
+    built-in tools, components, and rules to streamline the development process. Frameworks
+    are often designed to handle multiple aspects of a project, such as routing, database
+    management, and UI rendering, all within a unified system.
+ }
+ -----------------------------------------------------------------------------------------------------
+ What is crossorigin in script tag? 
+
+The crossorigin attribute in an HTML <script> tag is used to specify how the browser
+should handle cross-origin requests for the script being loaded. It determines whether
+the script is fetched with credentials (like cookies or HTTP authentication headers)
+and how errors are reported if something goes wrong.
+
+------------------------------------------------------------------------------------------------------
+
+ 
